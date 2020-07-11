@@ -1,0 +1,59 @@
+SocialClubHelper.exe
+steamwebhelper.exe
+svchost.exe
+RuntimeBroker.exe
+lsass.exe
+System Idle Process
+System
+Registry
+smss.exe
+csrss.exe
+services.exe
+Memory Compression
+wininit.exe
+conhost.exe
+sedsvc.exe
+dllhost.exe
+net.exe
+net1.exe
+AdjustService.exe
+jusched.exe
+fontdrvhost.exe
+WUDFHost.exe
+SearchProtocolHost.exe
+GoogleCrashHandler64.exe
+NVDisplay.Container.exe
+FileCoAuth.exe
+dasHost.exe
+nvcontainer.exe
+NVIDIA Share.exe
+dwm.exe
+Plex Tuner Service.exe
+SearchFilterHost.exe
+sihost.exe
+cdarbsvc_v1.0.0_x64.exe
+SearchProtocolHost.exe
+Microsoft.Photos.exe
+ctfmon.exe
+FileCoAuth.exe
+jusched.exe
+LCore.exe
+LockApp.exe
+MSASCuiL.exe
+taskhostw.exe
+ShellExperienceHost.exe
+PlexScriptHost.exe
+Plex DLNA Server.exe
+SearchUI.exe
+NVIDIA Web Helper.exe
+nvsphelper64.exe
+backgroundTaskHost.exe
+ApplicationFrameHost.exe
+SettingSyncHost.exe
+GameOverlayUI.exe
+OneDrive.exe
+SystemSettings.exe
+WinStore.App.exe
+smartscreen.exe
+GameBarPresenceWriter.exe
+rundll32.exe

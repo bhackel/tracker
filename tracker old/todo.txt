@@ -1,0 +1,14 @@
+make checks for blacklist size too big
+make checks for blacklist existing
+create windows blacklist
+limits somehow: hard limit, notification limit
+output to spreadsheet, excel or csv
+change refresh delay
+
+
+what to track
+-total time used per app
+-total time computer on
+-time used in last x days
+-dates and usage statistics for date
+
